@@ -4,7 +4,8 @@ body {
   font-family: "Arial", sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: #444444;
+  color: #44444;
+  background: #333;
 }
 
 h1 {
@@ -33,7 +34,7 @@ h2 {
   height: 186px;
   margin-bottom: 70px;
   padding-top: 30px;
-  background: #847462 no-repeat center url("img/gloevk-bg.jpg");
+  background: #847462 no-repeat center url("header.jpg");
   background-size: cover;
   color: #ffffff;
 }
@@ -43,7 +44,7 @@ h2 {
   margin: 0 auto 26px;
   text-align: center;
   font-size: 16px;
-  line-height: 24px; 
+  line-height: 24px;
 }
 
 .site-header img {
@@ -67,21 +68,6 @@ h2 {
   text-align: center;
 }
 
-.feature-furniture {
-  padding-top: 65px;
-  background-image: url("img/furniture.svg");
-}
-
-.feature-lighting {
-  padding-top: 65px;
-  background-image: url("img/lighting.svg");
-}
-
-.feature-accessories {
-  padding-top: 65px;
-  background-image: url("img/accessories.svg");
-}
-
 .advantages {
   width: 510px;
   margin: 0 auto 40px;
@@ -90,7 +76,7 @@ h2 {
 
 .advantages-list {
   padding: 0;
-  list-style: none;  
+  list-style: none;
 }
 
 .advantages-item {
@@ -112,7 +98,7 @@ h2 {
 
 .site-footer {
   min-width: 550px;
-  background-color: #847462;
+  background-color: gray;
   color: #ffffff;
 }
 
@@ -125,5 +111,3 @@ h2 {
   vertical-align: middle;
   padding: 0 20px;
 }
-
-
