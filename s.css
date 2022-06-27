@@ -91,8 +91,26 @@ padding: 0 20px;
     display: block;
 }
 
+.vk img{
+  height: 50px;
+  width: 50px;
+}
+
+
+.git img{
+  height: 40px;
+  width: 40px;
+}
+
+.inst img{
+  height: 40px;
+  width: 40px;
+}
+
+
 .g{
     color: white;
+      transform: scale(1.2);
 }
 
 /* Change color of dropdown links on hover */

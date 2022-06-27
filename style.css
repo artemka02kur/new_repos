@@ -48,11 +48,13 @@ a {
 
 
 .h li{
+
   display: inline-table;
     margin-right: 110px;
     margin-left: 30px;
     font-size: 20px;
 }
+
 
 .container {
 width: 1201px;
@@ -73,7 +75,7 @@ padding: 0 20px;
 }
 
    .scale {
-    transition: 1s;
+    transition: .5s;
    }
    .scale:hover {
     transform: scale(1.2);
